@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# Data and generated analysis outputs
+thermal_flash_analysis/data/raw/
+thermal_flash_analysis/results/
+*.avi
+*.mp4
+*.mov
+*.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
